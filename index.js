@@ -1,3 +1,4 @@
+'use strict';
 const getDCLaw = require('./lib/getDCLaw.js');
 const getDCCode = require('./lib/getDCCode.js');
 

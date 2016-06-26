@@ -1,3 +1,5 @@
+'use strict';
+
 const tap = require('tap');
 const dclaw = require('../index.js');
 
