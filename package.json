@@ -1,0 +1,16 @@
+{
+  "name": "dc-law",
+  "version": "0.0.1",
+  "description": "Library for DC Law functions",
+  "main": "index.js",
+  "scripts": {
+    "build-docs": "./node_modules/.bin/documentation readme index.js -s 'API'",
+    "test": "./node_modules/.bin/tap tests/*.js --cov --reporter=list"
+  },
+  "author": "V. David Zvenyach",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "documentation": "^4.0.0-beta5",
+    "tap": "^5.8.0"
+  }
+}
