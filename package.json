@@ -1,6 +1,6 @@
 {
   "name": "dc-law",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Library for DC Law functions",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,10 @@
   "devDependencies": {
     "documentation": "^4.0.0-beta5",
     "tap": "^5.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vzvenyach/dc-law.git"
+  },
+  "homepage": "https://github.com/vzvenyach/dc-law"
 }
